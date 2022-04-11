@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/LeraDanilsSUDIOS/CrossNULL/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/LeraDanilsSUDIOS/SURPRIZE/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3165" />
+        <entry key="..\:/LeraDanilsSUDIOS/SURPRIZE/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3165" />
+        <entry key="..\:/LeraDanilsSUDIOS/SURPRIZE/app/src/main/res/drawable/radius_button.xml" value="0.355" />
+        <entry key="..\:/LeraDanilsSUDIOS/SURPRIZE/app/src/main/res/layout/activity_main.xml" value="0.67" />
+        <entry key="..\:/LeraDanilsSUDIOS/SURPRIZE/app/src/main/res/layout/activity_menu.xml" value="0.5" />
+        <entry key="..\:/LeraDanilsSUDIOS/SURPRIZE/app/src/main/res/layout/activity_top_score.xml" value="0.5541666666666667" />
+        <entry key="..\:/LeraDanilsSUDIOS/SURPRIZE/app/src/main/res/layout/ftoriz.xml" value="0.5541666666666667" />
+        <entry key="..\:/LeraDanilsSUDIOS/SURPRIZE/app/src/main/res/layout/registr.xml" value="0.571563981042654" />
+        <entry key="..\:/LeraDanilsSUDIOS/SURPRIZE/app/src/main/res/layout/regiz.xml" value="0.3140625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
