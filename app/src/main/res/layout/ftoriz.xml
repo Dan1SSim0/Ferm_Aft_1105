@@ -4,8 +4,9 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:layoutAnimation="@transition/anim_setting_left"
+
     android:background="#FFD740">
+
 
     <TableLayout
         android:layout_width="283dp"
@@ -101,7 +102,7 @@
                 android:layout_width="280dp"
                 android:layout_height="52dp"
                 android:layout_marginBottom="50dp"
-                android:inputType="textPersonName"
+                android:inputType="textPassword"
                 android:paddingLeft="15dp"
                 android:paddingTop="10dp"
                 android:paddingRight="15dp"
@@ -119,13 +120,16 @@
         <TableRow>
 
             <Button
+
+
                 android:id="@+id/button2"
                 android:layout_width="280dp"
                 android:layout_height="66dp"
+                android:background="@drawable/radius_button"
                 android:backgroundTint="#FFFFFF"
                 android:text="Войти"
                 android:textColor="#FFC107"
-                app:cornerRadius="25dp"
+                app:cornerRadius="80dp"
                 app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
                 android:layout_marginBottom="5dp"

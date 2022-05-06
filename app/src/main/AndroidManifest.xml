@@ -10,15 +10,6 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.AppCompat.NoActionBar">
         <activity
-            android:name=".TopScore"
-            android:exported="true" />
-        <activity
-            android:name=".MainActivity"
-            android:exported="true" />
-        <activity
-            android:name=".Menu"
-            android:exported="true"/>
-        <activity
             android:name=".Ftoriz"
             android:exported="true">
             <intent-filter>

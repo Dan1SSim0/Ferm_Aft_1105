@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:layoutAnimation="@transition/anim_setting_right"
+
     android:background="#FFD740">
 
 
@@ -103,7 +103,7 @@
                 android:layout_width="280dp"
                 android:layout_height="52dp"
                 android:layout_marginBottom="50dp"
-                android:inputType="textPersonName"
+                android:inputType="textPassword"
                 android:paddingLeft="15dp"
                 android:paddingTop="10dp"
                 android:paddingRight="15dp"
@@ -140,7 +140,7 @@
             android:layout_width="280dp"
             android:layout_height="52dp"
             android:layout_marginBottom="50dp"
-            android:inputType="textPersonName"
+            android:inputType="textPassword"
             android:paddingLeft="15dp"
             android:paddingTop="10dp"
             android:paddingRight="15dp"
@@ -160,6 +160,7 @@
                 android:id="@+id/button2"
                 android:layout_width="280dp"
                 android:layout_height="66dp"
+                android:background="@drawable/radius_button"
                 android:backgroundTint="#FFFFFF"
                 android:text="Войти"
                 android:textColor="#FFC107"
